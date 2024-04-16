@@ -17,5 +17,5 @@ img {
 h2 {
     font-size: 35px;
     text-align: center;
-    background-color: aqua;
+    background: linear-gradient(to right, yellow 50%, cyan 50%);
 }
